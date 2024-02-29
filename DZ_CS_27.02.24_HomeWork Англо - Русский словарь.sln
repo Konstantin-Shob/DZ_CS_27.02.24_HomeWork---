@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ_CS_27.02.24_HomeWork Англо - Русский словарь", "DZ_CS_27.02.24_HomeWork Англо - Русский словарь.csproj", "{F1FBD6DE-10A9-4409-860E-9563EE5688E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1FBD6DE-10A9-4409-860E-9563EE5688E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1FBD6DE-10A9-4409-860E-9563EE5688E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1FBD6DE-10A9-4409-860E-9563EE5688E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1FBD6DE-10A9-4409-860E-9563EE5688E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39648B57-9D83-4E21-94B2-6BA35768E923}
+	EndGlobalSection
+EndGlobal
